@@ -34,7 +34,7 @@ Routing and middleware.
 
 - [ ] Describe a Resource?
 
-A resource is a specific subset of information available on a database, which we may want to semantically separate and deal wit on it's own. In other words, it is a logical separation of information, around which we should be concerned with building access to.
+A resource is a specific subset of information available on a database, which we may want to semantically separate and deal wit on it's own. In other words, it is a logical separation of information, around which we should be concerned with building access to. For  example, if we are working with a dating website, our resources will be "users", "dates", etc.
 
 - [ ] What can the API return to help clients know if a request was successful?
 
